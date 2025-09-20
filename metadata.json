@@ -1,0 +1,8 @@
+{
+  "name": "Crowdsourced Civic Issue Reporter",
+  "description": "A platform for citizens to report civic issues like potholes or broken streetlights using live media, which is then automatically categorized by AI and managed by administrators on a central dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
